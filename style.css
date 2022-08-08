@@ -4,3 +4,8 @@
 	font-family: Arial, Helvetica, sans-serif;
 	box-sizing: border-box;
 }
+.seccion1{
+	border-color: black;
+	margin: 100px;
+	padding: 100px;
+}
