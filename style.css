@@ -4,3 +4,22 @@
 	font-family: Arial, Helvetica, sans-serif;
 	box-sizing: border-box;
 }
+
+.nav-content {
+	display: flex;
+	gap: 20px;
+}
+
+.nav-content li {
+	list-style: none;
+}
+
+.colorText {
+	color: orange;
+	text-align: center;
+}
+.seccion1 {
+	border-color: black;
+	margin: 100px;
+	padding: 100px;
+
