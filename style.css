@@ -13,3 +13,13 @@
 .nav-content li {
 	list-style: none;
 }
+
+.colorText {
+	color: orange;
+	text-align: center;
+}
+.seccion1 {
+	border-color: black;
+	margin: 100px;
+	padding: 100px;
+}
